@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1628832298 source:c:\users\jezeh\onedrive\escritorio\2do semestre 2021\estructuras de datos\laboratorio\tarea1\main.cpp
+	<iostream>
+	"Cola.h"
+
+1628833132 source:c:\users\jezeh\onedrive\escritorio\2do semestre 2021\estructuras de datos\laboratorio\tarea1\src\cola.cpp
+	"Cola.h"
+
+1628831571 c:\users\jezeh\onedrive\escritorio\2do semestre 2021\estructuras de datos\laboratorio\tarea1\include\cola.h
+	"nodo.h"
+
+1628827046 source:c:\users\jezeh\onedrive\escritorio\2do semestre 2021\estructuras de datos\laboratorio\tarea1\src\nodo.cpp
+	"nodo.h"
+
+1628827046 c:\users\jezeh\onedrive\escritorio\2do semestre 2021\estructuras de datos\laboratorio\tarea1\include\nodo.h
+	<iostream>
+
